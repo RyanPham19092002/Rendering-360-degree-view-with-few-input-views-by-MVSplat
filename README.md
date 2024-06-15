@@ -4,7 +4,7 @@ Official implementation of **Rendering 360 degree view with few input views by M
 
 ## Output demo : 
 
-
+https://github.com/RyanPham19092002/Rendering-360-degree-view-with-few-input-views-by-MVSplat/blob/main/otuputs/output.mp4
 
 ## Installation
 
