@@ -1,12 +1,10 @@
 # MVSplat
 
-Official implementation of **MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images**
+Official implementation of **Rendering 360 degree view with few input views by MVSplat**
 
-Authors: [Yuedong Chen](https://donydchen.github.io/), [Haofei Xu](https://haofeixu.github.io/), [Chuanxia Zheng](https://chuanxiaz.com/), [Bohan Zhuang](https://bohanzhuang.github.io/), [Marc Pollefeys](https://people.inf.ethz.ch/marc.pollefeys/), [Andreas Geiger](https://www.cvlibs.net/), [Tat-Jen Cham](https://personal.ntu.edu.sg/astjcham/) and [Jianfei Cai](https://jianfei-cai.github.io/).
+## Output demo : 
 
-### [Project Page](https://donydchen.github.io/mvsplat/) | [arXiv](https://arxiv.org/abs/2403.14627) | [Pretrained Models](https://drive.google.com/drive/folders/14_E_5R6ojOWnLSrSVLVEMHnTiKsfddjU) 
 
-https://github.com/donydchen/mvsplat/assets/5866866/c5dc5de1-819e-462f-85a2-815e239d8ff2
 
 ## Installation
 
@@ -122,17 +120,3 @@ test.compute_scores=true
 
 **More running commands can be found at [more_commands.sh](more_commands.sh).**
 
-## BibTeX
-
-```bibtex
-@article{chen2024mvsplat,
-    title   = {MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images},
-    author  = {Chen, Yuedong and Xu, Haofei and Zheng, Chuanxia and Zhuang, Bohan and Pollefeys, Marc and Geiger, Andreas and Cham, Tat-Jen and Cai, Jianfei},
-    journal = {arXiv preprint arXiv:2403.14627},
-    year    = {2024},
-}
-```
-
-## Acknowledgements
-
-The project is largely based on [pixelSplat](https://github.com/dcharatan/pixelsplat) and has incorporated numerous code snippets from [UniMatch](https://github.com/autonomousvision/unimatch). Many thanks to these two projects for their excellent contributions!
